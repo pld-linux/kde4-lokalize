@@ -8,12 +8,12 @@
 
 Summary:	Computer-aided translation system that focuses on productivity and performance
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	7908954a354c434d8a10fe9403a289d0
+# Source0-md5:	22570c1d91c6ffa0b2607825a0aa1ae9
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
