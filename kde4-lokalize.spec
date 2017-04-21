@@ -9,7 +9,7 @@
 Summary:	Computer-aided translation system that focuses on productivity and performance
 Name:		kde4-%{orgname}
 Version:	4.14.3
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
