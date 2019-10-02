@@ -10,7 +10,7 @@ Summary:	Computer-aided translation system that focuses on productivity and perf
 Summary(pl.UTF-8):	System komputerowo wspomaganego tłumaczenia skupiający się na produktywności i wydajności
 Name:		kde4-%{orgname}
 Version:	4.14.3
-Release:	4
+Release:	5
 License:	GPL v2 or GPL v3
 Group:		X11/Development/Tools
 Source0:	https://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
